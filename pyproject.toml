@@ -12,6 +12,7 @@ openai = "^0.27.10"
 python-dotenv = "^1.0.0"
 unstructured = "^0.10.12"
 chromadb = "^0.4.9"
+tiktoken = "^0.4.0"
 
 [tool.poetry.group.dev.dependencies]
 python-dotenv = "^1.0.0"
