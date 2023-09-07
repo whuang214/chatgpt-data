@@ -13,6 +13,7 @@ python-dotenv = "^1.0.0"
 unstructured = "^0.10.12"
 chromadb = "^0.4.9"
 tiktoken = "^0.4.0"
+pysqlite3-binary = "^0.5.1"
 
 [tool.poetry.group.dev.dependencies]
 python-dotenv = "^1.0.0"
